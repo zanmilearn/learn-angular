@@ -1,0 +1,38 @@
+{
+  "name": "onlineconsultaionapp",
+  "version": "1.0.0",
+  "description": "An app which allows doctors to connect with patients through web.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emantra",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-material": "^1.1.0",
+    "angular-ui-router": "^0.3.1",
+    "browser-sync": "^2.14.0",
+    "browserify": "^13.1.0",
+    "git": "^0.1.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nagaraj1990.visualstudio.com/DefaultCollection/_git/Angular%20scalable%20template"
+  }
+}
